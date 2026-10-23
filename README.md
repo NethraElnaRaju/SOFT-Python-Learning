@@ -10,4 +10,5 @@
 |-----|-------|--------| 
 | Day 01 | Introduction | Done |
 | Day 02 | Variables & Built-in Functions | Done |
-
+| Day 03 | Operation in python | Done |
+| Day 04 | Strings | Done |
