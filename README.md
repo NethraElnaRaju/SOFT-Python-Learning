@@ -10,3 +10,9 @@
 |-----|-------|--------| 
 | Day 01 | Introduction | Done |
 | Day 02 | Variables & Built-in Functions | Pending |
+| Day 03 | Operation in python | Done |
+| Day 04 | Strings | Done |
+| Day 05 | Lists | Done |
+| Day 06 | Strings Programs | Done |
+| Day 07 | Tuple | Done |
+| Day 08 | Sets and Dictionary | Pending |
