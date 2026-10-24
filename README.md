@@ -15,4 +15,4 @@
 | Day 05 | Lists | Done |
 | Day 06 | Strings Programs | Done |
 | Day 07 | Tuple | Done |
-| Day 08 | Sets and Dictionary | Pending |
+| Day 08 | Sets and Dictionary | Done |
