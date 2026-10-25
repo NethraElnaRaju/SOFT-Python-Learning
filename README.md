@@ -16,3 +16,4 @@
 | Day 06 | Strings Programs | Done |
 | Day 07 | Tuple | Done |
 | Day 08 | Sets and Dictionary | Done |
+| Day 09 | Simple Calculater | Done |
