@@ -18,3 +18,4 @@
 | Day 08 | Sets and Dictionary | Done |
 | Day 09 | Simple Calculater | Done |
 | Day 10 | Loop Operation | Done |
+| Day 11 | Functions | Done |
